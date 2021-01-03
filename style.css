@@ -1,0 +1,12 @@
+h2 {
+  color: rgba(96, 255, 207, 0.897);
+  margin: auto;
+  background-color: red;
+  border: royalblue;
+  width: fit-content;
+  border-radius: 10px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
